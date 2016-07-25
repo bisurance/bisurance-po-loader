@@ -1,0 +1,11 @@
+{
+  "name": "bisurance-po-loader",
+  "version": "1.0.0",
+  "description": "Bisurance PO loader",
+  "main": "bisurance-po-loader.js",
+  "dependencies": {
+    "gettext-parser": "^1.2.0"
+  },
+  "author": "",
+  "license": "UNLICENSED"
+}
